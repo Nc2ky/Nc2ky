@@ -40,4 +40,4 @@ I work with data and quality engineering. I have experience in application testi
 ## 📫 Connect
 [LinkedIn](https://linkedin.com/in/your-link) · your.email@example.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nc2ky&show_icons=true)
